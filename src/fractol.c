@@ -86,7 +86,8 @@ int					main(int ac, char **av)
 	set = 0;
 	if (ac == 2)
 	{
-		ft_printf("%s%s%s", INSTRUCTIONS, INSTRUCTION2, INSTRUCTION3);
+		ft_printf("%s%s\n%s%s%s",
+			  BREAK, av[1], INSTRUCTIONS, INSTRUCTION2, INSTRUCTION3);
 		set = fractol_get_set(av[1]);
 		f = ini_fractal(set);
 		struct_init(f);
