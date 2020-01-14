@@ -1,5 +1,9 @@
 # fract_ol
 Program that creates a small representation of an infinitely repeating pattern.
+
+Compile with **make**
+
+run with **./fractol** followed by a valid fractal name or a number [1 - 4]
 <H3>Mandelbrot</H3>
 
 ![Mandelbrot](https://i.imgur.com/oHOfKFY.png)
