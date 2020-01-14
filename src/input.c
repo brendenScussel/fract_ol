@@ -12,8 +12,6 @@
 
 #include "../inc/fractol.h"
 
-#include "../inc/fractol.h"
-
 static void			color(int code, t_fractal *f)
 {
 	if (code == KEY_Q)
