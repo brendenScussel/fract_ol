@@ -1,6 +1,6 @@
 # fract_ol
 Program that creates a small representation of an infinitely repeating pattern.
-##Mandelbrot##
+<H2>Mandelbrot</H2>
 ![Mandelbrot](https://i.imgur.com/oHOfKFY.png)
 
 ![Julia](https://i.imgur.com/KJDLSkk.png)
