@@ -5,7 +5,7 @@ Compile with **make**
 
 run with **./fractol** followed by a valid fractal name or a number [1 - 4]
 
-__Sunspot__ is not technically a fractal, but it was trippy and I liked it enough to keep it.
+*Sunspot* is not technically a fractal, but it was trippy and I liked it enough to keep it.
 <H3>Mandelbrot</H3>
 
 ![Mandelbrot](https://i.imgur.com/oHOfKFY.png)
