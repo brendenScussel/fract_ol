@@ -14,7 +14,7 @@ NAME = fractol
 
 CC = gcc
 
-CFLAGS = - O2 -Wall -Wextra -Werror
+CFLAGS = -O2 -Wall -Wextra -Werror
 
 MLXFLAGS = -lmlx -framework OpenGL -framework Appkit
 
